@@ -1,0 +1,15 @@
+body{ 
+	 background: #CCCCCC;
+
+
+} 
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	color: #8FBC8F;
+}
+ul{
+	display: inline-block;
+}
+ #foto{ 
+ width: 25% }
