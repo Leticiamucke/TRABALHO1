@@ -1,15 +1,51 @@
-main p {
-	background: pink;
+table{
+    margin: 20px 0 40px;
 }
-main h1 {
-	background: pink;
+thead{
+    background: #000000;
+    color: white;
+    font-weight: bold;
 }
-#logo{
-	width: 25%;
-	opacity: 0.5;
-	box-shadow: 10px 10px 5px #000000;
-}.principal{
-	width: 90%;
-	opacity: 1;
-	box-shadow: 10px 10px 5px #4F4F4F
+tr,td{
+
+   border:2px solid #000000;
+   font-size: 40px;
+   color: green;
+}
+.pagina{
+
+display: block;
+  margin: 0 0 20px;
+   padding: 10px 25px;
+width:30%;
+}
+
+.pagina2{
+
+display: block;
+  margin: 0 0 20px;
+   padding: 10px 25px;
+width:30%;
+}
+form label {
+display:block;
+ font-size: 20px;
+margin: 0 0 10px;
+
+}
+
+.pagina3{
+
+display: block;
+  margin: 0 0 20px;
+   padding: 10px 25px;
+width:30%;
+}
+p{
+  color:blue;
+  text-transform:uppercase
+}
+label{
+  color:blue;
+  text-transform: uppercase
 }
